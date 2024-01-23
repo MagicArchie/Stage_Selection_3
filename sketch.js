@@ -22,9 +22,9 @@ let backgroundMusic;
 
 // Array to store links for each node
 const nodeLinks = [
-  'https://magicarchie.github.io/Stage_1/',
-  'https://magicarchie.github.io/Stage_2/',
-  'https://magicarchie.github.io/Stage_3/',
+  'https://magicarchie.github.io/Stage_1F/',
+  'https://magicarchie.github.io/Stage_2F/',
+  'https://magicarchie.github.io/Stage_3F/',
   'stage4.html',
   'stage5.html',
   'stage6.html',
